@@ -60,21 +60,3 @@ HP:0012115	hepatitis	mtaxid:208726	hepatitis a virus, human	0.5625	2087	5	5	1.00
 SYMPT0071	pruritus	mtaxid:40336	mucuna	0.4000	2140	5	5	1.0000	3.67161e-11
 HP:6000424	kerion	mtaxid:5550	trichophyton	0.4444	3	111	3	1.0000	7.46497e-11
 HP:0001945	fever	mtaxid:44449	borrelia recurrentis	0.3125	5469	6	6	1.0000	8.39543e-11
-HP:0000201	pierre-robin sequence	mtaxid:x135430	songbirds	0.6000	3	124	3	1.0000	1.04369e-10
-SYMPT0043	itching	mtaxid:40336	mucuna	0.5714	3279	5	5	1.0000	3.10599e-10
-HP:0000989	pruritus	mtaxid:40336	mucuna	0.5714	3292	5	5	1.0000	3.16809e-10
-HP:0034438	balanitis	mtaxid:33946	kurthia gibsonii	0.3200	6	2	2	1.0000	4.39586e-10
-HP:6000146	hydrosalpinx	mtaxid:813	chlamydia trachomatis	0.4242	3	259	3	1.0000	9.63249e-10
-HP:0012089	arteritis	mtaxid:2003400	equartevirus	0.6400	275	3	3	1.0000	1.1538e-09
-HP:0012182	oropharyngeal squamous cell carcinoma	mtaxid:10566	human papillomavirus viruses	0.3729	3	307	3	1.0000	1.60711e-09
-HP:0002014	diarrhea	mtaxid:28295	porcine epidemic diarrhea virus	0.4103	1802	4	4	1.0000	2.25644e-09
-SYMPT0020	diarrhea	mtaxid:28295	porcine epidemic diarrhea virus	0.4103	1803	4	4	1.0000	2.26146e-09
-HP:0025615	abscess	mtaxid:x33040	streptococcus milleri group	0.2143	396	3	3	1.0000	3.4568e-09
-HP:0012115	hepatitis	mtaxid:186677	hepevirus	0.5625	2087	4	4	1.0000	4.06155e-09
-HP:6000146	hydrosalpinx	mtaxid:810	chlamydia	0.3810	3	438	3	1.0000	4.68089e-09
-HP:0001909	leukemia	mtaxid:11768	leukemia virus, feline	0.6154	2218	4	4	1.0000	5.18229e-09
-HP:0001909	leukemia	mtaxid:11788	abelson murine leukemia virus	0.5333	2218	4	4	1.0000	5.18229e-09
-HP:0001909	leukemia	mtaxid:438045	xenotropic murine leukemia virus-related virus	0.2963	2218	4	4	1.0000	5.18229e-09
-HP:0500006	urethritis	mtaxid:33946	kurthia gibsonii	0.5385	40	2	2	1.0000	2.28585e-08
-HP:0012735	cough	mtaxid:5331	bjerkandera adusta	0.0870	3241	4	4	1.0000	2.36463e-08
-SYMPT0015	cough	mtaxid:5331	bjerkandera adusta	0.0870	3262	4	4	1.0000	2.42654e-08
